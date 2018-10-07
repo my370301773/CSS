@@ -1,0 +1,37 @@
+div{
+                margin-top:5px;
+            }
+            span{
+                background-color:#F3C98F;
+                border:0px #000000 solid;
+                width:100px;
+                height:100px;
+                display:inline-block;
+                margin-left:4px;
+                margin-top:4px;
+                border-radius:4px;
+            }
+            .over{
+                background-color:#FFFFFF;
+                border:2px #F3C98F solid;
+                width:316px;
+                height:40px;
+                margin-left:0px;;
+                border-radius:0px;
+                text-align:center;
+                display:table-cell;
+                vertical-align:middle;
+                color:#F3C98F;
+            }
+            .out{
+                background-color:#F3C98F;
+                border:2px #F3C98F solid;
+                width:316px;
+                height:40px;
+                margin-left:0px;
+                border-radius:0px;
+                text-align:center;
+                display:table-cell;
+                vertical-align:middle;
+                color:#FFFFFF;
+            }
